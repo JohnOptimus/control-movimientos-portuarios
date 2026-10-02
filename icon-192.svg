@@ -1,43 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-label="Icono de control portuario">
-  <rect width="192" height="192" rx="28" fill="#0F2235"/>
-  <g transform="translate(26,42)">
-    <rect x="0" y="0" width="140" height="36" rx="9" fill="#EAEFF3"/>
-    <g fill="#1C2B38">
-      <rect x="17" y="12" width="4" height="12" rx="2"/>
-      <rect x="29" y="12" width="4" height="12" rx="2"/>
-      <rect x="41" y="12" width="4" height="12" rx="2"/>
-      <rect x="53" y="12" width="4" height="12" rx="2"/>
-      <rect x="65" y="12" width="4" height="12" rx="2"/>
-      <rect x="77" y="12" width="4" height="12" rx="2"/>
-      <rect x="89" y="12" width="4" height="12" rx="2"/>
-      <rect x="101" y="12" width="4" height="12" rx="2"/>
-      <rect x="113" y="12" width="4" height="12" rx="2"/>
-    </g>
-
-    <rect x="0" y="48" width="140" height="36" rx="9" fill="#6EA8E1"/>
-    <g fill="#1C2B38">
-      <rect x="17" y="60" width="4" height="12" rx="2"/>
-      <rect x="29" y="60" width="4" height="12" rx="2"/>
-      <rect x="41" y="60" width="4" height="12" rx="2"/>
-      <rect x="53" y="60" width="4" height="12" rx="2"/>
-      <rect x="65" y="60" width="4" height="12" rx="2"/>
-      <rect x="77" y="60" width="4" height="12" rx="2"/>
-      <rect x="89" y="60" width="4" height="12" rx="2"/>
-      <rect x="101" y="60" width="4" height="12" rx="2"/>
-      <rect x="113" y="60" width="4" height="12" rx="2"/>
-    </g>
-
-    <rect x="0" y="96" width="140" height="36" rx="9" fill="#F0B41A"/>
-    <g fill="#1C2B38">
-      <rect x="17" y="108" width="4" height="12" rx="2"/>
-      <rect x="29" y="108" width="4" height="12" rx="2"/>
-      <rect x="41" y="108" width="4" height="12" rx="2"/>
-      <rect x="53" y="108" width="4" height="12" rx="2"/>
-      <rect x="65" y="108" width="4" height="12" rx="2"/>
-      <rect x="77" y="108" width="4" height="12" rx="2"/>
-      <rect x="89" y="108" width="4" height="12" rx="2"/>
-      <rect x="101" y="108" width="4" height="12" rx="2"/>
-      <rect x="113" y="108" width="4" height="12" rx="2"/>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-label="UNILAM logo">
+  <rect width="192" height="192" rx="30" fill="#111111"/>
+  <rect x="34" y="38" width="116" height="72" fill="#F3D12D"/>
+  <rect x="30" y="42" width="10" height="64" fill="#111111"/>
+  <rect x="144" y="42" width="10" height="64" fill="#B7B7B7"/>
+  <path d="M34 92 C 34 118, 56 131, 78 131 L 78 131 C 100 131, 124 118, 124 92 L 124 92 L 34 92 Z" fill="#111111"/>
+  <path d="M124 38 L 154 38 L 154 110 L 124 110 C 124 110, 108 103, 108 78 C 108 53, 124 38, 124 38 Z" fill="#F3D12D"/>
+  <path d="M38 40 L 38 112 L 120 112 C 120 112, 132 109, 144 98 L 144 40 L 38 40 Z" fill="#111111" opacity="0.96"/>
 </svg>
