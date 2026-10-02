@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-label="Icono de control portuario para iOS">
+  <rect width="180" height="180" rx="36" fill="#0F2235"/>
+  <g transform="translate(22,34)">
+    <rect x="0" y="0" width="136" height="30" rx="8" fill="#EAEFF3"/>
+    <g fill="#1C2B38">
+      <rect x="16" y="10" width="4" height="10" rx="2"/>
+      <rect x="28" y="10" width="4" height="10" rx="2"/>
+      <rect x="40" y="10" width="4" height="10" rx="2"/>
+      <rect x="52" y="10" width="4" height="10" rx="2"/>
+      <rect x="64" y="10" width="4" height="10" rx="2"/>
+      <rect x="76" y="10" width="4" height="10" rx="2"/>
+      <rect x="88" y="10" width="4" height="10" rx="2"/>
+      <rect x="100" y="10" width="4" height="10" rx="2"/>
+      <rect x="112" y="10" width="4" height="10" rx="2"/>
+    </g>
+
+    <rect x="0" y="42" width="136" height="30" rx="8" fill="#6EA8E1"/>
+    <g fill="#1C2B38">
+      <rect x="16" y="52" width="4" height="10" rx="2"/>
+      <rect x="28" y="52" width="4" height="10" rx="2"/>
+      <rect x="40" y="52" width="4" height="10" rx="2"/>
+      <rect x="52" y="52" width="4" height="10" rx="2"/>
+      <rect x="64" y="52" width="4" height="10" rx="2"/>
+      <rect x="76" y="52" width="4" height="10" rx="2"/>
+      <rect x="88" y="52" width="4" height="10" rx="2"/>
+      <rect x="100" y="52" width="4" height="10" rx="2"/>
+      <rect x="112" y="52" width="4" height="10" rx="2"/>
+    </g>
+
+    <rect x="0" y="84" width="136" height="30" rx="8" fill="#F0B41A"/>
+    <g fill="#1C2B38">
+      <rect x="16" y="94" width="4" height="10" rx="2"/>
+      <rect x="28" y="94" width="4" height="10" rx="2"/>
+      <rect x="40" y="94" width="4" height="10" rx="2"/>
+      <rect x="52" y="94" width="4" height="10" rx="2"/>
+      <rect x="64" y="94" width="4" height="10" rx="2"/>
+      <rect x="76" y="94" width="4" height="10" rx="2"/>
+      <rect x="88" y="94" width="4" height="10" rx="2"/>
+      <rect x="100" y="94" width="4" height="10" rx="2"/>
+      <rect x="112" y="94" width="4" height="10" rx="2"/>
+    </g>
+  </g>
+</svg>

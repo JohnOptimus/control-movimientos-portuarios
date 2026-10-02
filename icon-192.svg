@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192" role="img" aria-label="Icono de control portuario">
+  <rect width="192" height="192" rx="28" fill="#0F2235"/>
+  <g transform="translate(26,42)">
+    <rect x="0" y="0" width="140" height="36" rx="9" fill="#EAEFF3"/>
+    <g fill="#1C2B38">
+      <rect x="17" y="12" width="4" height="12" rx="2"/>
+      <rect x="29" y="12" width="4" height="12" rx="2"/>
+      <rect x="41" y="12" width="4" height="12" rx="2"/>
+      <rect x="53" y="12" width="4" height="12" rx="2"/>
+      <rect x="65" y="12" width="4" height="12" rx="2"/>
+      <rect x="77" y="12" width="4" height="12" rx="2"/>
+      <rect x="89" y="12" width="4" height="12" rx="2"/>
+      <rect x="101" y="12" width="4" height="12" rx="2"/>
+      <rect x="113" y="12" width="4" height="12" rx="2"/>
+    </g>
+
+    <rect x="0" y="48" width="140" height="36" rx="9" fill="#6EA8E1"/>
+    <g fill="#1C2B38">
+      <rect x="17" y="60" width="4" height="12" rx="2"/>
+      <rect x="29" y="60" width="4" height="12" rx="2"/>
+      <rect x="41" y="60" width="4" height="12" rx="2"/>
+      <rect x="53" y="60" width="4" height="12" rx="2"/>
+      <rect x="65" y="60" width="4" height="12" rx="2"/>
+      <rect x="77" y="60" width="4" height="12" rx="2"/>
+      <rect x="89" y="60" width="4" height="12" rx="2"/>
+      <rect x="101" y="60" width="4" height="12" rx="2"/>
+      <rect x="113" y="60" width="4" height="12" rx="2"/>
+    </g>
+
+    <rect x="0" y="96" width="140" height="36" rx="9" fill="#F0B41A"/>
+    <g fill="#1C2B38">
+      <rect x="17" y="108" width="4" height="12" rx="2"/>
+      <rect x="29" y="108" width="4" height="12" rx="2"/>
+      <rect x="41" y="108" width="4" height="12" rx="2"/>
+      <rect x="53" y="108" width="4" height="12" rx="2"/>
+      <rect x="65" y="108" width="4" height="12" rx="2"/>
+      <rect x="77" y="108" width="4" height="12" rx="2"/>
+      <rect x="89" y="108" width="4" height="12" rx="2"/>
+      <rect x="101" y="108" width="4" height="12" rx="2"/>
+      <rect x="113" y="108" width="4" height="12" rx="2"/>
+    </g>
+  </g>
+</svg>
